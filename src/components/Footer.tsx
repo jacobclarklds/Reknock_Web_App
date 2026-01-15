@@ -62,10 +62,10 @@ export function Footer() {
           </p>
           <div className="mt-4 md:mt-0">
             <a
-              href="mailto:support@reknock.com"
+              href="mailto:support@reknockapp.com"
               className="text-gray-400 hover:text-white text-sm transition-colors"
             >
-              support@reknock.com
+              support@reknockapp.com
             </a>
           </div>
         </div>

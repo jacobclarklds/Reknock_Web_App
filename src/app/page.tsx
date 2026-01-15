@@ -11,7 +11,7 @@ export default function HomePage() {
               Make Every Door Worth More
             </h1>
             <p className="text-xl sm:text-2xl text-primary-100 mb-10 max-w-3xl mx-auto">
-              Turn missed opportunities into guaranteed sales with automated SMS follow-up built for door-to-door reps
+              Turn missed opportunities into more sales with automated SMS follow-up built for door-to-door reps
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Link

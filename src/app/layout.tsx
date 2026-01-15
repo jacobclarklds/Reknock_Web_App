@@ -5,12 +5,12 @@ import { Footer } from '@/components/Footer'
 
 export const metadata: Metadata = {
   title: 'Reknock - Make Every Door Worth More',
-  description: 'Turn missed opportunities into guaranteed sales with automated SMS follow-up built for door-to-door reps.',
+  description: 'Turn missed opportunities into more sales with automated SMS follow-up built for door-to-door reps.',
   keywords: ['door-to-door sales', 'SMS automation', 'lead follow-up', 'sales CRM', 'text message marketing'],
   authors: [{ name: 'Reknock' }],
   openGraph: {
     title: 'Reknock - Make Every Door Worth More',
-    description: 'Turn missed opportunities into guaranteed sales with automated SMS follow-up built for door-to-door reps.',
+    description: 'Turn missed opportunities into more sales with automated SMS follow-up built for door-to-door reps.',
     type: 'website',
     locale: 'en_US',
     siteName: 'Reknock',
@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   twitter: {
     card: 'summary_large_image',
     title: 'Reknock - Make Every Door Worth More',
-    description: 'Turn missed opportunities into guaranteed sales with automated SMS follow-up built for door-to-door reps.',
+    description: 'Turn missed opportunities into more sales with automated SMS follow-up built for door-to-door reps.',
   },
   robots: {
     index: true,

@@ -159,7 +159,7 @@ export default function PrivacyPolicyPage() {
 
           <h3>6.3 Deletion</h3>
           <p>
-            You can delete individual leads or request full account deletion. Contact support at <a href="mailto:privacy@reknock.com" className="text-primary-600 hover:text-primary-700">privacy@reknock.com</a>.
+            You can delete individual leads or request full account deletion. Contact support at <a href="mailto:privacy@reknockapp.com" className="text-primary-600 hover:text-primary-700">privacy@reknockapp.com</a>.
           </p>
 
           <h3>6.4 California Residents (CCPA)</h3>
@@ -171,7 +171,7 @@ export default function PrivacyPolicyPage() {
             <li>Right to non-discrimination</li>
           </ul>
           <p>
-            To exercise these rights, contact <a href="mailto:privacy@reknock.com" className="text-primary-600 hover:text-primary-700">privacy@reknock.com</a>.
+            To exercise these rights, contact <a href="mailto:privacy@reknockapp.com" className="text-primary-600 hover:text-primary-700">privacy@reknockapp.com</a>.
           </p>
 
           <h2>7. Security</h2>
@@ -211,8 +211,8 @@ export default function PrivacyPolicyPage() {
           <h2>12. Contact Us</h2>
           <p>For questions about this Privacy Policy or to exercise your rights:</p>
           <ul>
-            <li>Email: <a href="mailto:privacy@reknock.com" className="text-primary-600 hover:text-primary-700">privacy@reknock.com</a></li>
-            <li>Address: Reknock LLC, Carmel, Indiana</li>
+            <li>Email: <a href="mailto:privacy@reknockapp.com" className="text-primary-600 hover:text-primary-700">privacy@reknockapp.com</a></li>
+            <li>Address: Reknock LLC, 2402 Timothy Circle, Pleasant Grove, UT 84062</li>
           </ul>
         </article>
       </div>

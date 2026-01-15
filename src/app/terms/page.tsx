@@ -175,7 +175,7 @@ export default function TermsOfServicePage() {
 
           <h2>13. Governing Law</h2>
           <p>
-            These Terms are governed by the laws of the State of Indiana, without regard to conflict of law principles. Any disputes shall be resolved in the courts of Hamilton County, Indiana.
+            These Terms are governed by the laws of the State of Utah, without regard to conflict of law principles. Any disputes shall be resolved in the courts of Utah County, Utah.
           </p>
 
           <h2>14. Changes to Terms</h2>
@@ -186,8 +186,8 @@ export default function TermsOfServicePage() {
           <h2>15. Contact</h2>
           <p>For questions about these Terms, contact us at:</p>
           <ul>
-            <li>Email: <a href="mailto:legal@reknock.com" className="text-primary-600 hover:text-primary-700">legal@reknock.com</a></li>
-            <li>Address: Reknock LLC, Carmel, Indiana</li>
+            <li>Email: <a href="mailto:legal@reknockapp.com" className="text-primary-600 hover:text-primary-700">legal@reknockapp.com</a></li>
+            <li>Address: Reknock LLC, 2402 Timothy Circle, Pleasant Grove, UT 84062</li>
           </ul>
         </article>
       </div>
