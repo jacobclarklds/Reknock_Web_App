@@ -99,6 +99,10 @@ export default function PrivacyPolicyPage() {
 
           <h2>4. How We Share Information</h2>
 
+          <p>
+            The Company will not share your mobile number or SMS opt-in consent with any third parties or affiliates for marketing or promotional purposes.
+          </p>
+
           <h3>4.1 Service Providers</h3>
           <p>We share data with third parties who help us provide the Service:</p>
           <ul>
